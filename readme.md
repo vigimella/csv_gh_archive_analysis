@@ -19,7 +19,7 @@ After that remember to install en_core_web_lg. This is necessary in order to exe
 python -m spacy download en_core_web_lg
 ```
 
-#License
+# License
 Using are welcome, remember to quote me.
 
 Vigimella - 2022.
